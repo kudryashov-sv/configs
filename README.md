@@ -1,1 +1,3 @@
-# configs
+# My configuration files
+* tmux
+* zsh
